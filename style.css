@@ -1,0 +1,32 @@
+body{
+	background: url(./image.png) no-repeat center center fixed;
+	background-size: cover;
+}
+button{
+	width: 270px;
+	height: 120px;
+	background: rgba(0, 128, 0, 0.7);
+	font-size: 30px;
+	border: none;
+	padding: none;
+	border-radius: 20px;
+	margin-left: 15px;
+}
+span{
+	position: relative;
+	top: 10px;
+}
+th{
+    padding-bottom: 10px 
+}
+.button-fix{
+	position: relative;
+	top: 20px;
+}
+#all{
+	position: relative;
+	top: 25px;
+}
+th{
+    margin-right: 25%
+}

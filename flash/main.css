@@ -1,0 +1,15 @@
+html{
+    background: url(https://images5.alphacoders.com/866/866910.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.thing{
+    background: orange;
+    border-radius: 50px;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    position: relative;
+    top: 300px;
+    font-size: 100px;
+}
